@@ -1,0 +1,18 @@
+
+/* STRUCTURE */
+.info-utente-container{
+    width: 100%;
+    height: 50vh;
+}
+
+/* STYLE */
+p{
+    font-size: 1.875rem;
+}
+
+/* UTILITIES */
+.centered_items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
